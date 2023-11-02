@@ -20,10 +20,9 @@
 
 >Antes de ejecutar nuestra aplicación debemos crear un archivo .env en el directorio frontend con el siguiente contenido
 
-    PORT=8000
-    URI = 
-    AUDIENCE = 
-    issuerBaseURL =
+    DOMAIN=
+    CLIENT_ID=
+    REACT_APP_API_URL=
 
 >Ahora podemos ejecutar el comando
 
